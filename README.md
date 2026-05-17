@@ -53,14 +53,6 @@ I'm a **Computer Engineering** student at the **NJIT Honors College**, specializ
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="180" src="https://github-readme-stats-alpha.vercel.app/api?username=judelahage&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="judelahage GitHub stats" />
-  <img height="180" src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=judelahage&layout=compact&theme=radical" alt="judelahage Top Languages" />
-</p>
-
----
-
 ### 🤝 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/judelahage" target="_blank">
