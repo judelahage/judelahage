@@ -42,8 +42,8 @@ I'm a **Computer Engineering** student at the **NJIT Honors College**, specializ
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=judelahage&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judelahage&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=judelahage&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="judelahage GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judelahage&layout=compact&theme=radical" alt="judelahage Top Languages" />
 </p>
 
 ---
@@ -61,5 +61,5 @@ I'm a **Computer Engineering** student at the **NJIT Honors College**, specializ
 <details>
   <summary><b>🐍 My Contribution Snake</b></summary>
   <br/>
-  <img src="https://github.com/judelahage/judelahage/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/judelahage/judelahage/output/github-contribution-grid-snake.svg" alt="snake" />
 </details>
