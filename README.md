@@ -1,7 +1,7 @@
 # Hi there, I'm Jude! 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jude%20LaHage&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jude%20Lahage&fontSize=90" />
 </div>
 
 ### 🚀 About Me
