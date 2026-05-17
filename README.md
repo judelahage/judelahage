@@ -17,6 +17,7 @@ I'm a **Computer Engineering** student at the **NJIT Honors College**, specializ
 ### 🛠️ Tech Stack
 
 #### Languages
+<br/>
 <p align="left">
   <img src="https://img.shields.io/badge/Verilog-%23212121.svg?style=for-the-badge" alt="Verilog" />
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -30,6 +31,7 @@ I'm a **Computer Engineering** student at the **NJIT Honors College**, specializ
 </p>
 
 #### Hardware & Automation
+<br/>
 <p align="left">
   <img src="https://img.shields.io/badge/KiCAD-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCAD" />
   <img src="https://img.shields.io/badge/FPGA-Xilinx_Vivado-orange?style=for-the-badge" alt="Vivado" />
@@ -41,6 +43,7 @@ I'm a **Computer Engineering** student at the **NJIT Honors College**, specializ
 </p>
 
 #### Frameworks & Libraries
+<br/>
 <p align="left">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
