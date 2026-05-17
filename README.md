@@ -1,7 +1,7 @@
 # Hi there, I'm Jude! 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Jude%20LaHage&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jude%20LaHage&fontSize=90" />
 </div>
 
 ### 🚀 About Me
@@ -55,8 +55,8 @@ I'm a **Computer Engineering** student at the **NJIT Honors College**, specializ
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=judelahage&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="judelahage GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judelahage&layout=compact&theme=radical" alt="judelahage Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=judelahage&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="judelahage GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judelahage&layout=compact&theme=radical" alt="judelahage Top Languages" />
 </p>
 
 ---
@@ -74,5 +74,9 @@ I'm a **Computer Engineering** student at the **NJIT Honors College**, specializ
 <details>
   <summary><b>🐍 My Contribution Snake</b></summary>
   <br/>
-  <img src="https://raw.githubusercontent.com/judelahage/judelahage/output/github-contribution-grid-snake.svg" alt="snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/judelahage/judelahage/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/judelahage/judelahage/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/judelahage/judelahage/output/github-contribution-grid-snake.svg">
+  </picture>
 </details>
