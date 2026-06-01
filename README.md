@@ -37,7 +37,7 @@
 <p><b>FPGA</b>-based VGA display controller in Verilog, with Xilinx timing constraints for Vivado.</p>
 <p>
 <img src="https://img.shields.io/badge/Verilog-0D7377?style=flat-square" alt="Verilog"/>
-<img src="https://img.shields.io/badge/Tcl-FFB13B?style=flat-square" alt="Tcl"/>
+<img src="https://img.shields.io/badge/AMD%20Artix--7%20FPGA-000000?style=flat-square&logo=amd&logoColor=white" alt="AMD Artix-7 FPGA"/>
 <img src="https://img.shields.io/badge/Xilinx%20Vivado-E81F26?style=flat-square" alt="Xilinx Vivado"/>
 </p>
 </td>
