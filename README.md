@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jude 👋</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,matlab,docker,js,ts,react,nextjs,nodejs,tailwind,supabase" alt="C, C++, Python, MATLAB, Docker, JavaScript, TypeScript, React, Next.js, Node.js, Tailwind CSS, Supabase"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,matlab,docker,js,ts,react,nextjs,nodejs,tailwind,supabase,fastapi" alt="C, C++, Python, MATLAB, Docker, JavaScript, TypeScript, React, Next.js, Node.js, Tailwind CSS, Supabase, FastAPI"/>
 </p>
 <p align="center">
   <img src="assets/tech-hardware.svg" alt="Verilog, SystemVerilog, VHDL, RISC-V, Xilinx Vivado, KiCad, OpenPLC, Ignition SCADA, Arduino, Raspberry Pi"/>
