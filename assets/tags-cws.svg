@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="305" height="30" viewBox="0 0 305 30" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="30" viewBox="0 0 340 30" fill="none">
   <rect x="0" y="0" width="32" height="30" rx="8" fill="#555555"/>
   <text x="16" y="19.5" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#ffffff">C</text>
   <rect x="40" y="0" width="84" height="30" rx="8" fill="#0078D4"/>
   <text x="82" y="19.5" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#ffffff">Winsock2</text>
   <rect x="132" y="0" width="112" height="30" rx="8" fill="#2EA44F"/>
   <text x="188" y="19.5" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#ffffff">Win32 Threads</text>
-  <rect x="252" y="0" width="53" height="30" rx="8" fill="#E81F26"/>
-  <text x="278.5" y="19.5" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#ffffff">GCC</text>
+  <rect x="252" y="0" width="88" height="30" rx="8" fill="#E81F26"/>
+  <text x="296" y="19.5" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#ffffff">TCP Sockets</text>
 </svg>
