@@ -1,24 +1,12 @@
 <h1 align="center">Hi, I'm Jude 👋</h1>
 
 <p align="center">
-  <b>Computer Engineering @ NJIT Honors College</b><br/>
-  Embedded Systems &nbsp;×&nbsp; Industrial Automation &nbsp;×&nbsp; Modern Software
-</p>
-
-<p align="center">
   <a href="https://linkedin.com/in/judelahage"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:jude@lahagetutoring.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/judelahage?tab=repositories"><img src="https://img.shields.io/badge/All%20Repos-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories"/></a>
 </p>
 
 ---
-
-### 👨‍💻 About
-
-- 🏎️ &nbsp;Software Team Lead — **NJIT Solar Car**
-- 🔬 &nbsp;Researched **RRAM** device power efficiency (HfO₂ vs ZrO₂) at NJIT
-- 🛠️ &nbsp;Building embedded systems, FPGA & PCB designs, PLC/SCADA labs, and agentic AI
-- 🧮 &nbsp;Engineer, programmer, and math tutor
 
 ### 🧰 Tech Stack
 
