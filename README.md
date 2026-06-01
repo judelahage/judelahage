@@ -1,76 +1,121 @@
-# Hi there, I'm Jude! 👋
+<h1 align="center">Hi, I'm Jude 👋</h1>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jude%20Lahage&fontSize=90" />
-</div>
-
-### 🚀 About Me
-I'm a **Computer Engineering** student at the **NJIT Honors College**, specializing in the intersection of **Embedded Systems**, **Industrial Automation**, and **Modern Software Engineering**. I lead software teams and build everything from FPGA-based display controllers to autonomous AI agents.
-
-- 🏗️ **Currently Building:** A VGA display controller in Verilog and an Industrial Automation home lab.
-- 🏎️ **Leadership:** Software Team Lead for the **NJIT Solar Car**.
-- 🔬 **Research:** Investigated RRAM device power efficiency (HfO2 vs ZrO2) at NJIT.
-- 🤖 **Interests:** Agentic AI workflows, high-precision PCB design, and PLC/SCADA systems.
-
----
-
-### 🛠️ Tech Stack
-
-#### Languages
-<br/>
-<p align="left">
-  <img src="https://img.shields.io/badge/Verilog-%23212121.svg?style=for-the-badge" alt="Verilog" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=for-the-badge&logo=matlab&logoColor=white" alt="MATLAB" />
-  <img src="https://img.shields.io/badge/VHDL-%2300599C.svg?style=for-the-badge" alt="VHDL" />
-  <img src="https://img.shields.io/badge/RISC--V-%23141414.svg?style=for-the-badge" alt="RISC-V" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<p align="center">
+  <b>Computer Engineering @ NJIT Honors College</b><br/>
+  Embedded Systems &nbsp;×&nbsp; Industrial Automation &nbsp;×&nbsp; Modern Software
 </p>
 
-#### Hardware & Automation
-<br/>
-<p align="left">
-  <img src="https://img.shields.io/badge/KiCAD-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCAD" />
-  <img src="https://img.shields.io/badge/FPGA-Xilinx_Vivado-orange?style=for-the-badge" alt="Vivado" />
-  <img src="https://img.shields.io/badge/PLC-OpenPLC-blue?style=for-the-badge" alt="OpenPLC" />
-  <img src="https://img.shields.io/badge/SCADA-Ignition-920000?style=for-the-badge" alt="Ignition" />
-  <img src="https://img.shields.io/badge/Embedded-Systems-critical?style=for-the-badge&logo=microchip" alt="Embedded" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
-</p>
-
-#### Frameworks & Libraries
-<br/>
-<p align="left">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+<p align="center">
+  <a href="https://linkedin.com/in/judelahage"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:jude@lahagetutoring.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/judelahage?tab=repositories"><img src="https://img.shields.io/badge/All%20Repos-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories"/></a>
 </p>
 
 ---
 
-### 🤝 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/judelahage" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:jude@lahagetutoring.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+### 👨‍💻 About
+
+- 🏎️ &nbsp;Software Team Lead — **NJIT Solar Car**
+- 🔬 &nbsp;Researched **RRAM** device power efficiency (HfO₂ vs ZrO₂) at NJIT
+- 🛠️ &nbsp;Building embedded systems, FPGA & PCB designs, PLC/SCADA labs, and agentic AI
+- 🧮 &nbsp;Engineer, programmer, and math tutor
+
+### 🧰 Tech Stack
+
+<p align="center"><b>Languages</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,matlab" alt="C, C++, Python, JavaScript, TypeScript, MATLAB"/>
 </p>
+
+<p align="center"><b>Frameworks &amp; Tools</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,tailwind,docker" alt="React, Next.js, Node.js, FastAPI, Tailwind, Docker"/>
+</p>
+
+<p align="center"><b>Hardware &amp; Automation</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Verilog-0D7377?style=flat-square" alt="Verilog"/>
+  <img src="https://img.shields.io/badge/VHDL-4B6CB7?style=flat-square" alt="VHDL"/>
+  <img src="https://img.shields.io/badge/RISC--V-283272?style=flat-square&logo=riscv&logoColor=white" alt="RISC-V"/>
+  <img src="https://img.shields.io/badge/Xilinx%20Vivado-E81F26?style=flat-square" alt="Xilinx Vivado"/>
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white" alt="KiCad"/>
+  <img src="https://img.shields.io/badge/OpenPLC-1F6FEB?style=flat-square" alt="OpenPLC"/>
+  <img src="https://img.shields.io/badge/Ignition%20SCADA-D9472B?style=flat-square" alt="Ignition SCADA"/>
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h4>🤖 <a href="https://github.com/judelahage/self-hosted-rag-agentic-ai-platform">RAG &amp; Agentic AI Platform</a></h4>
+<p>Self-hosted RAG with multi-step <b>agent workflows</b>, running local LLMs over Elasticsearch vector search.</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+</p>
+</td>
+<td width="50%" valign="top">
+<h4>🖥️ <a href="https://github.com/judelahage/vga-controller">VGA Display Controller</a></h4>
+<p><b>FPGA</b>-based VGA display controller in Verilog, with Xilinx timing constraints for Vivado.</p>
+<p>
+<img src="https://img.shields.io/badge/Verilog-0D7377?style=flat-square" alt="Verilog"/>
+<img src="https://img.shields.io/badge/Tcl-FFB13B?style=flat-square" alt="Tcl"/>
+<img src="https://img.shields.io/badge/Xilinx%20Vivado-E81F26?style=flat-square" alt="Xilinx Vivado"/>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h4>🏭 <a href="https://github.com/judelahage/plc-scada-lab">PLC / SCADA Automation Lab</a></h4>
+<p>IEC 61131-3 tank automation over <b>Modbus TCP</b> with an Ignition <b>SCADA</b> HMI.</p>
+<p>
+<img src="https://img.shields.io/badge/IEC%2061131--3-2E2E2E?style=flat-square" alt="IEC 61131-3"/>
+<img src="https://img.shields.io/badge/Modbus%20TCP-44698D?style=flat-square" alt="Modbus TCP"/>
+<img src="https://img.shields.io/badge/Ignition%20SCADA-D9472B?style=flat-square" alt="Ignition SCADA"/>
+</p>
+</td>
+<td width="50%" valign="top">
+<h4>🌗 <a href="https://github.com/judelahage/realistic-shadow-generator-ts">Realistic Shadow Generator</a></h4>
+<p>Web app that casts realistic drop shadows on a cutout image over any background, with adjustable light angle.</p>
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h4>🐦 <a href="https://github.com/judelahage/FlappyBirdAI">Flappy Bird AI</a></h4>
+<p>A <b>NEAT</b> neuro-evolution agent that teaches itself to play Flappy Bird from scratch.</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Pygame-2EA44F?style=flat-square" alt="Pygame"/>
+<img src="https://img.shields.io/badge/NEAT-6E40C9?style=flat-square" alt="NEAT"/>
+</p>
+</td>
+<td width="50%" valign="top"></td>
+</tr>
+</table>
+
+<p align="center"><sub><i>↓ more in my pinned repositories below</i></sub></p>
+
+---
 
 <details>
-  <summary><b>🐍 My Contribution Snake</b></summary>
+  <summary>🐍 Contribution snake</summary>
   <br/>
-  <div style="padding: 20px; border: 1px solid #30363d; border-radius: 6px;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/judelahage/judelahage/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/judelahage/judelahage/output/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/judelahage/judelahage/output/github-contribution-grid-snake.svg">
-    </picture>
-  </div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/judelahage/judelahage/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/judelahage/judelahage/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/judelahage/judelahage/output/github-contribution-grid-snake.svg">
+  </picture>
 </details>
