@@ -22,7 +22,27 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<h4>🤖 <a href="https://github.com/judelahage/self-hosted-rag-agentic-ai-platform">RAG &amp; Agentic AI Platform</a></h4>
+<h4><a href="https://github.com/judelahage/vga-controller">VGA Display Controller</a></h4>
+<p><b>FPGA</b>-based VGA display controller in Verilog, with Xilinx timing constraints for Vivado.</p>
+<p>
+<img src="https://img.shields.io/badge/Verilog-0D7377?style=flat-square" alt="Verilog"/>
+<img src="https://img.shields.io/badge/AMD%20Artix--7%20FPGA-000000?style=flat-square&logo=amd&logoColor=white" alt="AMD Artix-7 FPGA"/>
+<img src="https://img.shields.io/badge/Xilinx%20Vivado-E81F26?style=flat-square" alt="Xilinx Vivado"/>
+</p>
+</td>
+<td width="50%" valign="top">
+<h4><a href="https://github.com/judelahage/plc-scada-lab">PLC / SCADA Automation</a></h4>
+<p>IEC 61131-3 tank automation over <b>Modbus TCP</b> with an Ignition <b>SCADA</b> HMI.</p>
+<p>
+<img src="https://img.shields.io/badge/IEC%2061131--3-2E2E2E?style=flat-square" alt="IEC 61131-3"/>
+<img src="https://img.shields.io/badge/Modbus%20TCP-44698D?style=flat-square" alt="Modbus TCP"/>
+<img src="https://img.shields.io/badge/Ignition%20SCADA-D9472B?style=flat-square" alt="Ignition SCADA"/>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h4><a href="https://github.com/judelahage/self-hosted-rag-agentic-ai-platform">RAG &amp; Agentic AI Platform</a></h4>
 <p>Self-hosted RAG with multi-step <b>agent workflows</b>, running local LLMs over Elasticsearch vector search.</p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -33,27 +53,7 @@
 </p>
 </td>
 <td width="50%" valign="top">
-<h4>🖥️ <a href="https://github.com/judelahage/vga-controller">VGA Display Controller</a></h4>
-<p><b>FPGA</b>-based VGA display controller in Verilog, with Xilinx timing constraints for Vivado.</p>
-<p>
-<img src="https://img.shields.io/badge/Verilog-0D7377?style=flat-square" alt="Verilog"/>
-<img src="https://img.shields.io/badge/AMD%20Artix--7%20FPGA-000000?style=flat-square&logo=amd&logoColor=white" alt="AMD Artix-7 FPGA"/>
-<img src="https://img.shields.io/badge/Xilinx%20Vivado-E81F26?style=flat-square" alt="Xilinx Vivado"/>
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h4>🏭 <a href="https://github.com/judelahage/plc-scada-lab">PLC / SCADA Automation Lab</a></h4>
-<p>IEC 61131-3 tank automation over <b>Modbus TCP</b> with an Ignition <b>SCADA</b> HMI.</p>
-<p>
-<img src="https://img.shields.io/badge/IEC%2061131--3-2E2E2E?style=flat-square" alt="IEC 61131-3"/>
-<img src="https://img.shields.io/badge/Modbus%20TCP-44698D?style=flat-square" alt="Modbus TCP"/>
-<img src="https://img.shields.io/badge/Ignition%20SCADA-D9472B?style=flat-square" alt="Ignition SCADA"/>
-</p>
-</td>
-<td width="50%" valign="top">
-<h4>🌗 <a href="https://github.com/judelahage/realistic-shadow-generator-ts">Realistic Shadow Generator</a></h4>
+<h4><a href="https://github.com/judelahage/realistic-shadow-generator-ts">Realistic Shadow Generator</a></h4>
 <p>Web app that casts realistic drop shadows on a cutout image over any background, with adjustable light angle.</p>
 <p>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -64,7 +64,7 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h4>🐦 <a href="https://github.com/judelahage/FlappyBirdAI">Flappy Bird AI</a></h4>
+<h4><a href="https://github.com/judelahage/FlappyBirdAI">Flappy Bird AI</a></h4>
 <p>A <b>NEAT</b> neuro-evolution agent that teaches itself to play Flappy Bird from scratch.</p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
