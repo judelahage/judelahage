@@ -8,33 +8,6 @@
 
 ---
 
-### 🧰 Tech Stack
-
-<p align="center"><b>Languages</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,matlab" alt="C, C++, Python, JavaScript, TypeScript, MATLAB"/>
-</p>
-
-<p align="center"><b>Frameworks &amp; Tools</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,tailwind,docker" alt="React, Next.js, Node.js, FastAPI, Tailwind, Docker"/>
-</p>
-
-<p align="center"><b>Hardware &amp; Automation</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Verilog-0D7377?style=flat-square" alt="Verilog"/>
-  <img src="https://img.shields.io/badge/VHDL-4B6CB7?style=flat-square" alt="VHDL"/>
-  <img src="https://img.shields.io/badge/RISC--V-283272?style=flat-square&logo=riscv&logoColor=white" alt="RISC-V"/>
-  <img src="https://img.shields.io/badge/Xilinx%20Vivado-E81F26?style=flat-square" alt="Xilinx Vivado"/>
-  <img src="https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white" alt="KiCad"/>
-  <img src="https://img.shields.io/badge/OpenPLC-1F6FEB?style=flat-square" alt="OpenPLC"/>
-  <img src="https://img.shields.io/badge/Ignition%20SCADA-D9472B?style=flat-square" alt="Ignition SCADA"/>
-  <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
-</p>
-
----
-
 ### 🚀 Featured Projects
 
 <table>
@@ -94,7 +67,32 @@
 </tr>
 </table>
 
-<p align="center"><sub><i>↓ more in my pinned repositories below</i></sub></p>
+---
+
+### 🧰 Tech Stack
+
+<p align="center"><b>Languages</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,matlab" alt="C, C++, Python, JavaScript, TypeScript, MATLAB"/>
+</p>
+
+<p align="center"><b>Frameworks &amp; Tools</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,tailwind,docker" alt="React, Next.js, Node.js, FastAPI, Tailwind, Docker"/>
+</p>
+
+<p align="center"><b>Hardware &amp; Automation</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Verilog-0D7377?style=flat-square" alt="Verilog"/>
+  <img src="https://img.shields.io/badge/VHDL-4B6CB7?style=flat-square" alt="VHDL"/>
+  <img src="https://img.shields.io/badge/RISC--V-283272?style=flat-square&logo=riscv&logoColor=white" alt="RISC-V"/>
+  <img src="https://img.shields.io/badge/Xilinx%20Vivado-E81F26?style=flat-square" alt="Xilinx Vivado"/>
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white" alt="KiCad"/>
+  <img src="https://img.shields.io/badge/OpenPLC-1F6FEB?style=flat-square" alt="OpenPLC"/>
+  <img src="https://img.shields.io/badge/Ignition%20SCADA-D9472B?style=flat-square" alt="Ignition SCADA"/>
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
+</p>
 
 ---
 
