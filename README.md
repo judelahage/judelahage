@@ -16,7 +16,7 @@
 <td width="50%" valign="top">
 <h4><a href="https://github.com/judelahage/C-Web-Servers">C Web Servers</a></h4>
 <p>HTTP servers from scratch in <b>C</b> with multi-threaded and <b>thread-pooled</b> architectures over Winsock2.</p>
-<p><img src="assets/tags-cws.svg?v=3" alt="C, Winsock2, Win32 Threads, TCP Sockets"/></p>
+<p><img src="assets/tags-c-web-servers.svg" alt="C, Winsock2, Win32 Threads, TCP Sockets"/></p>
 </td>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/judelahage/vga-controller">VGA Display Controller</a></h4>
