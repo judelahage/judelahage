@@ -36,18 +36,6 @@
 <p><img src="assets/tags-plc.svg" alt="IEC 61131-3, Modbus TCP, Ignition SCADA"/></p>
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/judelahage/realistic-shadow-generator-ts">Realistic Shadow Generator</a></h4>
-<p>Web app that casts realistic drop shadows on a cutout image over any background, with adjustable light angle.</p>
-<p><img src="assets/tags-shadow.svg" alt="TypeScript, React, Vite"/></p>
-</td>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/judelahage/FlappyBirdAI">Flappy Bird AI</a></h4>
-<p>A <b>NEAT</b> neuro-evolution agent that teaches itself to play Flappy Bird from scratch.</p>
-<p><img src="assets/tags-flappy.svg" alt="Python, Pygame, NEAT"/></p>
-</td>
-</tr>
 </table>
 
 ---
