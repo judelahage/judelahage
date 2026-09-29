@@ -16,7 +16,7 @@
 <td width="50%" valign="top">
 <h4><a href="https://github.com/judelahage/Elevator-Controller">Elevator Controller</a></h4>
 <p>Four-floor elevator controller in <b>Verilog</b> with <b>SCAN scheduling</b>, directional hall calls, and emergency stop for the Basys 3 FPGA.</p>
-<p><img src="assets/tags-elevator-controller.svg" alt="Verilog, AMD Artix-7 FPGA, Xilinx Vivado"/></p>
+<p><img src="assets/tags-elevator-controller-v2.svg" alt="Verilog, Xilinx FPGA, Vivado"/></p>
 </td>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/judelahage/C-Web-Servers">C Web Servers</a></h4>
@@ -28,7 +28,7 @@
 <td width="50%" valign="top">
 <h4><a href="https://github.com/judelahage/vga-controller">VGA Display Controller</a></h4>
 <p><b>FPGA</b>-based VGA display controller in Verilog, with Xilinx timing constraints for Vivado.</p>
-<p><img src="assets/tags-vga.svg" alt="Verilog, AMD Artix-7 FPGA, Xilinx Vivado"/></p>
+<p><img src="assets/tags-vga-v2.svg" alt="Verilog, Xilinx FPGA, Vivado"/></p>
 </td>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/judelahage/RISC-V-SoC">RISC-V Processor & SoC</a></h4>
