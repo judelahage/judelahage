@@ -31,9 +31,9 @@
 <p><img src="assets/tags-vga.svg" alt="Verilog, AMD Artix-7 FPGA, Xilinx Vivado"/></p>
 </td>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/judelahage/plc-scada-lab">PLC / SCADA Automation</a></h4>
-<p>IEC 61131-3 tank automation over <b>Modbus TCP</b> with an Ignition <b>SCADA</b> HMI.</p>
-<p><img src="assets/tags-plc.svg" alt="IEC 61131-3, Modbus TCP, Ignition SCADA"/></p>
+<h4><a href="https://github.com/judelahage/RISC-V-SoC">RISC-V Processor & SoC</a></h4>
+<p>From-scratch <b>RV32I</b> processor core in <b>Verilog</b> for a Xilinx FPGA, with memory-mapped peripherals and a custom CAN controller.</p>
+<p><img src="assets/tags-riscv-soc.svg" alt="RISC-V, Verilog, Xilinx FPGA, Vivado"/></p>
 </td>
 </tr>
 </table>
