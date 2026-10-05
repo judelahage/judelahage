@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jude 👋</h1>
 
 <p align="center">
-  <img src="assets/tech-hardware-v2.svg" alt="Verilog, SystemVerilog, VHDL, RISC-V, Xilinx Vivado, Arduino, Raspberry Pi"/>
+  <img src="assets/tech-hardware-v2.svg" alt="Verilog, SystemVerilog, VHDL, RISC-V, Xilinx Vivado, Intel Quartus, Gem5, Arduino, Raspberry Pi"/>
 </p>
 
 ---
